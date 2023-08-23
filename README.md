@@ -52,6 +52,7 @@ Problems of class based object-orientation and advantages of function over objec
 1. [Fragile base class problem](https://en.wikipedia.org/wiki/Fragile_base_class)
 1. [Synthesizing Object-Oriented and Functional Design to Promote Re-Use](https://cs.brown.edu/~sk/Publications/Papers/Published/kff-synth-fp-oo/)
 1. https://www-old.cs.utah.edu/plt/publications/icfp98-ff/paper.shtml
+1. [Object-Oriented Programming Languages: Application and Interpretation](https://users.dcc.uchile.cl/~etanter/ooplai/)
 
 ### Prototype
 
